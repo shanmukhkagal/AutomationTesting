@@ -1,2 +1,2 @@
 # AutomationTesting
-All about Automation using Selenium Framework
+Load the drivers and Taking the ScreenShot
